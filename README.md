@@ -11,7 +11,7 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 
 ## 💻 Resumo das Aulas
 
-| Aulas | Resumo |
+| Aulas 01 e 02 | Resumo |
 |-------|--------|
 |Gravando  Alterações 01 | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-preparatorio-certificacao-aws&tab=about&moduleId=undefined)
 |Gravando  Alterações 02 | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-preparatorio-certificacao-aws&tab=about&moduleId=undefined)
